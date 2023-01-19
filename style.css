@@ -20,5 +20,6 @@ section {
 }
 
 .half-width img {
-    width: 60%;
+    width: 10%;
+    height: 10%;
 }
