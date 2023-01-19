@@ -20,6 +20,17 @@ section {
 }
 
 .half-width img {
+    padding: 60px;
     width: 10%;
     height: 10%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, red);
+    color: white;
+    font-weight: 400;
+    padding: 10px 40px;
+    border-radius: 5px;
+
 }
