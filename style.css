@@ -64,4 +64,9 @@ h2 {
     padding: 10px;
     border-radius: 5px;
     box-shadow: 10px 10px 15px gray;
+    border-left: 7px solid blue;
+}
+
+#pro-guitarist {
+    border-left: 7px solid tomato;
 }
