@@ -70,3 +70,11 @@ h2 {
 #pro-guitarist {
     border-left: 7px solid tomato;
 }
+
+#biginner-guitarist {
+    border-left: 7px solid blue;
+}
+
+footer p {
+    text-align: center;
+}
