@@ -58,6 +58,11 @@ h2 {
     background-position: left;
 }
 
+.experience-style {
+    text-decoration: underline tomato;
+    padding-left: 75px;
+}
+
 .experience-item {
     width: 40%;
     margin-left: 5%;
